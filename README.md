@@ -9,4 +9,4 @@ This geyser money, of course, has a velocity of circulation much higher than reg
 with adverse interest. That is, money is not intended to fulfill the function of preserving wealth; it is money that has a single part - a means 
 of fast circulation and a means of wide exchange. Of course, t velocity guard. 
 
-Whitepaper - US7.pdf
+Whitepaper - [US7.pdf](https://github.com/AviaCoinUS7/AviaCoin/blob/main/US7.pdf)
