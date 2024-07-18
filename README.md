@@ -10,4 +10,4 @@ with adverse interest. That is, money is not intended to fulfill the function of
 of fast circulation and a means of wide exchange. Of course, t velocity guard. 
 
 Whitepaper - [US7.pdf](https://github.com/AviaCoinUS7/AviaCoin/blob/main/US7.pdf)
-https://github.com/AviaCoinUS7/AviaCoin/blob/main/Logo.png
+[Logo](https://github.com/AviaCoinUS7/AviaCoin/blob/main/Logo.png)
